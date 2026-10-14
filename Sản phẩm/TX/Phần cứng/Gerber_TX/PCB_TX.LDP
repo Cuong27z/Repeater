@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: B:\28-5-TX_PCB\PCB_Project\PCB_TX.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_tx-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_tx-slotholes.txt|DrillLayers=gtl,gbl
